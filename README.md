@@ -14,4 +14,4 @@ Content-Length: 22
 "length" : 4
 }
 
-# test git commit --amend
+# test git commit --amend 123
